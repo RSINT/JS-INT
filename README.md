@@ -1,2 +1,2 @@
 #JS
-#default int
+-default int
