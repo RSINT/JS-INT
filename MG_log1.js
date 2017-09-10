@@ -1,6 +1,6 @@
-//MG
+//log
 
-console.log('MotionGraphic for JavaScript');
+console.log('js_3mg');
 
 window.onload = () => {
     function Accept() {
