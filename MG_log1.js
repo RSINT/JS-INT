@@ -1,6 +1,7 @@
 //log
 
-console.log('js_3mg');
+console.log('js');
+console.log('mg');
 
 window.onload = () => {
     function Accept() {
