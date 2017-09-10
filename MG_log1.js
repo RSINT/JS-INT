@@ -1,8 +1,5 @@
 //log
 
-console.log('js');
-console.log('mg');
-
 window.onload = () => {
     function Accept() {
         Canvas('#AKK');
